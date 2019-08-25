@@ -5,3 +5,4 @@ Basic Python Programming
 * [13-7-2562 | การสร้างตัวแปรและวิธีการเขียน statement](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected-topics-13-8-2019.ipynb)
 * [20-7-2562-01 | การเขียนโปรแกรม if-else และ while-loop](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected-topics-02-01-BMI-Calculation.ipynb)
 * [20-7-2562-02 | การค้นหาข้อมูล](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected-topics-02-Search.ipynb)
+* [27-07-2562 | ตัวแปรประเภท Dictionary และตัวอย่างการใช้งานข้อมูลจาก OpenWeather](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected-topics-03-Dictionary-OpenWeather-API.ipynb)

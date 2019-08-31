@@ -1,7 +1,6 @@
-# Selected topics in information technology 
-## Semester 1-2562
+# Selected topics in information technology | Semester 1-2562
 
-**Basic Python Programming**
+## **Basic Python Programming**
 * [30-7-2562 | เริ่มต้นเขียนโปรแกรม Python | Getting started with Python program](https://github.com/mrolarik/1-2562-selected-topics/blob/master/selected-topics-30-7-2562.ipynb)
 * [13-7-2562 | การสร้างตัวแปรและวิธีการเขียน statement | Variables and statements](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected-topics-13-8-2019.ipynb)
 * [20-7-2562-01 | การเขียนโปรแกรม if-else และ while-loop | if-else and while-loop program](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected-topics-02-01-BMI-Calculation.ipynb)
@@ -11,5 +10,5 @@
 * [31-1-2562 | การจัดการ Except เพิ่มเติม | Exception Handling](https://github.com/mrolarik/basic-python/blob/master/try_except.ipynb)
 
 
-**Homework | การบ้าน**
+## **Homework | การบ้าน**
 * [เฉลยการบ้าน โปรแกรมคำนวณหาพื้นที่ (สามเหลี่ยม, สี่เหลี่ยม, วงกลม)](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Homework1.ipynb)

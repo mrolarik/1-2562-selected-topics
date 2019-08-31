@@ -12,3 +12,7 @@
 
 ## **Homework | การบ้าน**
 * [เฉลยการบ้าน โปรแกรมคำนวณหาพื้นที่ (สามเหลี่ยม, สี่เหลี่ยม, วงกลม)](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Homework1.ipynb)
+
+
+## **Examination | ข้อสอบ**
+* [ข้อสอบเก็บคะแนนครั้งที่ 1 - 25 คะแนน](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Exam01_31_07_2019.ipynb)

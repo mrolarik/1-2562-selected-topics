@@ -10,6 +10,9 @@
 * [31-1-2562 | การจัดการ Except เพิ่มเติม | Exception Handling](https://github.com/mrolarik/basic-python/blob/master/try_except.ipynb)
 * [31-1-2562 | ตัวแปรประเภท List และตัวอย่างการเขียนโปรแกรม Shopping list | List and example of shopping list program](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected_topics_02_Shopping_list.ipynb)
 
+## **Extra | เพิ่มเติม** 
+* [ตัวแปรประเภท numpy และตัวอย่างการซ่อนข้อความเข้าไปในรูปภาพ | Numpy and example of basic image steganography](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected_topics_extra_image_steganography.ipynb)
+
 ## **Homework | การบ้าน**
 * [เฉลยการบ้าน โปรแกรมคำนวณหาพื้นที่ (สามเหลี่ยม, สี่เหลี่ยม, วงกลม)](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Homework1.ipynb)
 

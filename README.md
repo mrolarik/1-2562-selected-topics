@@ -1,4 +1,5 @@
-# Selected topics in information technology | Semester 1-2562
+# Selected topics in information technology 
+## Semester 1-2562
 
 **Basic Python Programming**
 * [30-7-2562 | เริ่มต้นเขียนโปรแกรม Python | Getting started with Python program](https://github.com/mrolarik/1-2562-selected-topics/blob/master/selected-topics-30-7-2562.ipynb)

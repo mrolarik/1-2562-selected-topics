@@ -9,6 +9,7 @@
 * [27-07-2562 | ตัวแปรประเภท Dictionary และตัวอย่างการใช้งานข้อมูลจาก OpenWeather | Dictionary and using the OpenWeather API with Python program](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected-topics-03-Dictionary-OpenWeather-API.ipynb)
 * [3-08-2019 | การซ่อนข้อความในรูปภาพ | Basic Image Steganography](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-08-image_steganography.ipynb)
 * [1-10-2562 | Logic Gates](https://github.com/mrolarik/1-2562-selected-topics/blob/master/slide-02-logic.pdf)
+* [Homework | Logic Gate and Function](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Home-work-python-logic-function.doc)
 * [8-10-2562 | การจัดการไฟล์ และการใช้ Try Except เพื่อจัดการข้อผิดพลาด | File management and Try Except](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected-topics-04-File-Management-and-Try-Except.ipynb)
 * [8-10-2562 | การจัดการ Except เพิ่มเติม | Exception Handling](https://github.com/mrolarik/basic-python/blob/master/try_except.ipynb)
 * [15-10-2562 | ตัวแปรประเภท List และตัวอย่างการเขียนโปรแกรม Shopping list | List and example of shopping list program](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected_topics_02_Shopping_list.ipynb)
